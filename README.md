@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DBQDSS
-- 👀 I’m interested in Math & Machine Learning & CS & Physics
+- 👀 I’m interested in Math & Machine Learning
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
