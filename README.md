@@ -41,7 +41,7 @@
 🛠️ 技术栈
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,git,linux,latex,md&theme=dark" alt="tech stack"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,git,latex,md&theme=dark" alt="tech stack"/>
   </a>
 </div>
 
