@@ -64,7 +64,7 @@
 📫 Find Me
 <div align="center">
   <a href="https://github.com/DBQDSS"><img src="https://img.shields.io/badge/GitHub-DBQDSS-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <a href="./QQ-QRcode.jpg"><img src="https://img.shields.io/badge/QQ-Scan%20Me-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="qq"/></a>
+  <a href="./QQ-QRcode.jpg"><img src="https://img.shields.io/badge/QQ-Scan%20Me-12B7F5?style=for-the-badge&logo=qq&logoColor=white" alt="qq"/></a>
   <a href="./WX-QRcode.png"><img src="https://img.shields.io/badge/WeChat-Scan%20Me-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat"/></a>
   <a href="https://www.xiaohongshu.com/user/profile/64205834000000001102351e"><img src="https://img.shields.io/badge/RedNote-Follow%20Me-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="xiaohongshu"/></a>
   <a href="https://space.bilibili.com/1640660424"><img src="https://img.shields.io/badge/bilibili-Follow%20Me-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili"/></a>
