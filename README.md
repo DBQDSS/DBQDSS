@@ -10,6 +10,8 @@
 <div align="center">
 <img src="./avatar.png" width="" height="200" alt="profile views"/>
 
+<br/>
+
 <!-- 动态打字标题 -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+%E5%A4%B1%E5%8E%BB%E7%90%86%E6%83%B3%E7%9A%84%E7%8D%BE+(DBQDSS);XJTU+%e6%95%b0%e5%ad%a6%e4%b8%8e%e7%bb%9f%e8%ae%a1%e5%ad%a6%e9%99%a2+%c2%b7+%E7%A0%94%E4%B8%80%E5%9C%A8%E8%AF%BB;Math+%C3%97+ML+%C3%97+CS;Wir+m%C3%BCssen+wissen%2C+wir+werden+wissen." alt="Typing SVG" />
