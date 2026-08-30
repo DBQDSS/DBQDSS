@@ -71,6 +71,7 @@
   <a href="./WX-QRcode.png"><img src="https://img.shields.io/badge/微信-添加我-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat"/></a>
   <a href="https://www.xiaohongshu.com/user/profile/64205834000000001102351e"><img src="https://img.shields.io/badge/小红书-关注我-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="xiaohongshu"/></a>
   <a href="https://space.bilibili.com/1640660424"><img src="https://img.shields.io/badge/bilibili-关注我-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili"/></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAY7O8SX7fLU5louxY7oZLPZokkce8o3nxfXYoTbLVcH5Ud-_t5JOz8PEg192cZq53"><img src="https://img.shields.io/badge/抖音-关注我-FE2C55?style=for-the-badge&logo=tiktok&logoColor=white" alt="抖音"/></a>
   <a href="https://blog.cyaml.top/"><img src="https://img.shields.io/badge/博客-blog.cyaml.top-3fb950?style=for-the-badge&logo=hexo&logoColor=white" alt="blog"/></a>
   <a href="https://blog.cyaml.top/atom.xml"><img src="https://img.shields.io/badge/RSS-订阅-ffa500?style=for-the-badge&logo=rss&logoColor=white" alt="rss"/></a>
 </div>
