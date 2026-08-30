@@ -16,6 +16,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+DBQDSS;Math+%C3%97+ML+%C3%97+CS;Wir+m%C3%BCssen+wissen%2C+wir+werden+wissen." alt="Typing SVG" />
 </a>
+
+<br/>
+
 <!-- Badges -->
 <p>
   <a href="https://github.com/DBQDSS?tab=followers">
